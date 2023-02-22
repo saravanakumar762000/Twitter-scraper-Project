@@ -10,11 +10,10 @@ Here we used Snscrape, Mongodb, Python, Streamlit.
 
 To install Snscrape:
 
-               Pip install sncrape  
+                            Pip install sncrape  
            
-          Or(use the developer version)
-   
-   pip install git+https://github.com/JustAnotherArchivist/snscrape.git
+                       Or(use the developer version)
+    pip install git+https://github.com/JustAnotherArchivist/snscrape.git
 
 EXECUTION:
 
